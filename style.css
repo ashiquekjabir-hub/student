@@ -1,0 +1,36 @@
+
+body {
+    background-color: #b87482;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-weight: 700;
+    color: #feffff;
+}
+h5 {
+    color: #fbfdfd;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.05);
+}
+
+.form-control,
+.form-select {
+    padding: 10px;
+}
+
+.btn {
+    padding: 9px 18px;
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.table td {
+    white-space: nowrap;
+}
